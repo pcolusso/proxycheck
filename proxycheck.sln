@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "proxycheck", "proxycheck.csproj", "{5303F91B-75A2-4D1A-A456-544FA1072FB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5303F91B-75A2-4D1A-A456-544FA1072FB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5303F91B-75A2-4D1A-A456-544FA1072FB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5303F91B-75A2-4D1A-A456-544FA1072FB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5303F91B-75A2-4D1A-A456-544FA1072FB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7362113-87D9-482E-90EC-6E64EAB70E6F}
+	EndGlobalSection
+EndGlobal
